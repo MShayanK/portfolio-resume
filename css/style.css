@@ -1,0 +1,53 @@
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+#skills .border:hover {
+  background-color: #f8f9fa;
+  transition: 0.3s ease;
+}
+#contact {
+  background-color: #f9f9f9;
+}
+
+h2{
+   font-weight: bold;
+  color: #333;
+}
+
+#contact h2 {
+  font-weight: bold;
+  color: #333;
+}
+
+#contact .form-control {
+  border-radius: 8px;
+}
+
+#contact button {
+  border-radius: 8px;
+  font-weight: bold;
+}
+
+
+  .section {
+  padding: 50px 20px;
+  background-color: #f4f4f4;
+  margin: 40px 0;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.03);
+}
+
+.section h2 {
+  
+  font-weight: bold;
+  color: #333;
+  margin-bottom: 30px;
+  
+}
+
+.edu-item {
+  max-width: 700px;
+  margin: 0 auto;
+  background: #ffffff;
+  padding: 20px;
+}
